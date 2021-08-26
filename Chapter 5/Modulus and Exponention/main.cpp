@@ -7,10 +7,7 @@ Write a function called isEven() that returns true if an integer passed to it is
 
 bool isEven(int x)
 {
-	if (x % 2 == 0)
-		return true;
-	else
-		return false;
+	return (x % 2 == 0);
 }
 
 int main()
