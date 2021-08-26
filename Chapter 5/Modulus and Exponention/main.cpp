@@ -5,9 +5,12 @@ Write a function called isEven() that returns true if an integer passed to it is
 
 #include <iostream>
 
-bool isEven(int)
+bool isEven(int x)
 {
-	return true;
+	if (x % 2 == 0)
+		return true;
+	else
+		return false;
 }
 
 int main()
@@ -16,7 +19,10 @@ int main()
 	int input{};
 	std::cin >> input;
 
-	std::cout << input;
+	if (isEven(input))
+		std::cout << input << " is even.";
+	else
+		std::cout << input << " is odd.";
 
 	return 0;
 }
