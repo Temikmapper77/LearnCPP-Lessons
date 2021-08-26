@@ -6,9 +6,33 @@ Have the program output the height of the ball above the ground after 0, 1, 2, 3
 
 #include <iostream>
 
+constexpr double gravity{ 9.8 };
+
+double enterTowerHeight()
+{
+	std::cout << "Enter height of the tower: ";
+	double input{};
+	std::cin >> input;
+	return input;
+}
+
+double calcAtZero(double height)
+{
+	double newHeight{};
+
+	newHeight = height - gravity * 0;
+
+	std::cout << "\nnew heght is: " << newHeight;
+
+	return newHeight;
+}
+
 int main()
 {
-	std::cout << "test";
+	double height{ enterTowerHeight() };
+	std::cout << "gravity is " << gravity << "\nheight is " << height;
+
+	calcAtZero(height);
 
 	return 0;
 }
