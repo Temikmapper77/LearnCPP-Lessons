@@ -26,9 +26,16 @@ double calculateAndPrintHeight(double height, int second)
 	double newHeight{};
 
 	newHeight = height - (gravity * second * second)/2;
-
-	printResult(second, newHeight);
-
+	
+	if (newHeight <= 0)
+	{
+		std::cout << "At " << second << " seconds, the ball is on the ground.\n";
+	}
+	else 
+	{
+		printResult(second, newHeight);
+	}
+	
 	return newHeight;
 }
 
@@ -37,6 +44,11 @@ int main()
 	double height{ enterTowerHeight() };
 
 	calculateAndPrintHeight(height, 0);
+	calculateAndPrintHeight(height, 1);
+	calculateAndPrintHeight(height, 2);
+	calculateAndPrintHeight(height, 3);
+	calculateAndPrintHeight(height, 4);
+	calculateAndPrintHeight(height, 5);
 
 	return 0;
 }
