@@ -16,13 +16,18 @@ double enterTowerHeight()
 	return input;
 }
 
-double calcAtZero(double height)
+void printResult(int second, double result)
+{
+	std::cout << "At " << second << " seconds, the ball is at height: " << result << " meters.\n";
+}
+
+double calculateAndPrintHeight(double height, int second)
 {
 	double newHeight{};
 
-	newHeight = height - gravity * 0;
+	newHeight = height - (gravity * second * second)/2;
 
-	std::cout << "\nnew heght is: " << newHeight;
+	printResult(second, newHeight);
 
 	return newHeight;
 }
@@ -30,9 +35,8 @@ double calcAtZero(double height)
 int main()
 {
 	double height{ enterTowerHeight() };
-	std::cout << "gravity is " << gravity << "\nheight is " << height;
 
-	calcAtZero(height);
+	calculateAndPrintHeight(height, 0);
 
 	return 0;
 }
