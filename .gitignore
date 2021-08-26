@@ -50,3 +50,22 @@
 /Chapter 4/Summary 2/Summary 2.vcxproj.filters
 /Chapter 4/Summary 2/Summary 2.vcxproj
 /Chapter 4/Summary 2/Summary 2.sln
+*.suo
+*.db
+*.tlog
+*.log
+*.txt
+*.exe
+*.ipch
+*.obj
+*.db-shm
+*.db-wal
+*.filters
+*.vcxproj
+*.sln
+*.pdb
+*.user
+*.idb
+*.ilk
+*.recipe
+*.opendb
