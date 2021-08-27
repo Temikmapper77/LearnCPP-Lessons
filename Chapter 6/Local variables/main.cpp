@@ -21,8 +21,7 @@ int main()
 	if (x > y)
 	{
 		std::cout << "Swapping the values\n";
-		int temp{};
-		temp = x;
+		int temp{x};
 		x = y;
 		y = temp;
 	}
