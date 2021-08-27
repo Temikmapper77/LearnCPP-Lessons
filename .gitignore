@@ -1,107 +1,24 @@
-﻿################################################################################
-# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
-################################################################################
-
-/Chapter 4/Summary 1/learnCPP4summary.vcxproj.user
-/Chapter 4/Summary 1/learnCPP4summary.vcxproj.filters
-/Chapter 4/Summary 1/learnCPP4summary.vcxproj
-/Chapter 4/Summary 1/learnCPP4summary.sln
-/Chapter 4/Summary 1/.vs/learnCPP4summary/v16/Browse.VC.opendb
-/Chapter 4/Summary 1/.vs/learnCPP4summary/v16/Browse.VC.db-wal
-/Chapter 4/Summary 1/.vs/learnCPP4summary/v16/Browse.VC.db-shm
-/Chapter 4/Summary 1/.vs/learnCPP4summary/v16/Browse.VC.db
+﻿
 /.vs/slnx.sqlite
 /.vs/ProjectSettings.json
-/.vs/LearnCPP-Lessons/v16/.suo
-/Chapter 4/Summary 2/LearnCPP4Summary2/LearnCPP4Summary2.vcxproj.user
-/Chapter 4/Summary 2/LearnCPP4Summary2/LearnCPP4Summary2.vcxproj.filters
-/Chapter 4/Summary 2/LearnCPP4Summary2/LearnCPP4Summary2.vcxproj
-/Chapter 4/Summary 2/LearnCPP4Summary2/LearnCPP4Summary2.sln
-/Chapter 4/Summary 2/LearnCPP4Summary2/.vs/LearnCPP4Summary2/v16/Browse.VC.opendb
-/Chapter 4/Summary 2/LearnCPP4Summary2/.vs/LearnCPP4Summary2/v16/Browse.VC.db-wal
-/Chapter 4/Summary 2/LearnCPP4Summary2/.vs/LearnCPP4Summary2/v16/Browse.VC.db-shm
-/Chapter 4/Summary 2/LearnCPP4Summary2/.vs/LearnCPP4Summary2/v16/Browse.VC.db
-/Chapter 4/Summary 2/LearnCPP4Summary2/.vs/LearnCPP4Summary2/v16/.suo
-/Chapter 4/Summary 1/.vs/learnCPP4summary/v16/.suo
-/Chapter 4/Summary 2/Debug/vc142.pdb
-/Chapter 4/Summary 2/Debug/vc142.idb
-/Chapter 4/Summary 2/Debug/Summary 2.vcxproj.FileListAbsolute.txt
-/Chapter 4/Summary 2/Debug/Summary 2.tlog/Summary 2.lastbuildstate
-/Chapter 4/Summary 2/Debug/Summary 2.tlog/link.write.1.tlog
-/Chapter 4/Summary 2/Debug/Summary 2.tlog/link.read.1.tlog
-/Chapter 4/Summary 2/Debug/Summary 2.tlog/link.command.1.tlog
-/Chapter 4/Summary 2/Debug/Summary 2.tlog/CL.write.1.tlog
-/Chapter 4/Summary 2/Debug/Summary 2.tlog/CL.read.1.tlog
-/Chapter 4/Summary 2/Debug/Summary 2.tlog/CL.command.1.tlog
-/Chapter 4/Summary 2/Debug/Summary 2.pdb
-/Chapter 4/Summary 2/Debug/Summary 2.log
-/Chapter 4/Summary 2/Debug/Summary 2.ilk
-/Chapter 4/Summary 2/Debug/Summary 2.exe.recipe
-/Chapter 4/Summary 2/Debug/Summary 2.exe
-/Chapter 4/Summary 2/Debug/main.obj
-/Chapter 4/Summary 2/.vs/Summary 2/v16/ipch/AutoPCH/7b17bc5de2b80ee1/MAIN.ipch
-/Chapter 4/Summary 2/.vs/Summary 2/v16/Browse.VC.opendb
-/Chapter 4/Summary 2/.vs/Summary 2/v16/Browse.VC.db-wal
-/Chapter 4/Summary 2/.vs/Summary 2/v16/Browse.VC.db-shm
-/Chapter 4/Summary 2/.vs/Summary 2/v16/Browse.VC.db
-/Chapter 4/Summary 2/.vs/Summary 2/v16/.suo
 /.vs/VSWorkspaceState.json
-/Chapter 4/Summary 2/Summary 2.vcxproj.user
-/Chapter 4/Summary 2/Summary 2.vcxproj.filters
-/Chapter 4/Summary 2/Summary 2.vcxproj
-/Chapter 4/Summary 2/Summary 2.sln
-/Chapter 5/Modulus and Exponention/Modulus and Exponention.sln
-/Chapter 5/Modulus and Exponention/.vs/Modulus and Exponention/v16/Browse.VC.opendb
-/Chapter 5/Modulus and Exponention/.vs/Modulus and Exponention/v16/Browse.VC.db-wal
-/Chapter 5/Modulus and Exponention/.vs/Modulus and Exponention/v16/Browse.VC.db-shm
-/Chapter 5/Modulus and Exponention/.vs/Modulus and Exponention/v16/Browse.VC.db
-/Chapter 5/Modulus and Exponention/.vs/Modulus and Exponention/v16/.suo
-/Chapter 4/Summary 3/Summary 3.vcxproj.user
-/Chapter 4/Summary 3/Summary 3.vcxproj.filters
-/Chapter 4/Summary 3/Summary 3.vcxproj
-/Chapter 4/Summary 3/Summary 3.sln
-/Chapter 4/Summary 3/Debug/vc142.pdb
-/Chapter 4/Summary 3/Debug/vc142.idb
-/Chapter 4/Summary 3/Debug/Summary 3.vcxproj.FileListAbsolute.txt
-/Chapter 4/Summary 3/Debug/Summary 3.tlog/Summary 3.lastbuildstate
-/Chapter 4/Summary 3/Debug/Summary 3.tlog/link.write.1.tlog
-/Chapter 4/Summary 3/Debug/Summary 3.tlog/link.read.1.tlog
-/Chapter 4/Summary 3/Debug/Summary 3.tlog/link.command.1.tlog
-/Chapter 4/Summary 3/Debug/Summary 3.tlog/CL.write.1.tlog
-/Chapter 4/Summary 3/Debug/Summary 3.tlog/CL.read.1.tlog
-/Chapter 4/Summary 3/Debug/Summary 3.tlog/CL.command.1.tlog
-/Chapter 4/Summary 3/Debug/Summary 3.pdb
-/Chapter 4/Summary 3/Debug/Summary 3.log
-/Chapter 4/Summary 3/Debug/Summary 3.ilk
-/Chapter 4/Summary 3/Debug/Summary 3.exe.recipe
-/Chapter 4/Summary 3/Debug/Summary 3.exe
-/Chapter 4/Summary 3/Debug/main.obj
-/Chapter 4/Summary 3/.vs/Summary 3/v16/ipch/AutoPCH/27877c9797b938a4/MAIN.ipch
-/Chapter 4/Summary 3/.vs/Summary 3/v16/Browse.VC.db
-/Chapter 4/Summary 3/.vs/Summary 3/v16/.suo
-/Chapter 5/Modulus and Exponention/Modulus and Exponention.vcxproj.user
-/Chapter 5/Modulus and Exponention/Modulus and Exponention.vcxproj.filters
-/Chapter 5/Modulus and Exponention/Modulus and Exponention.vcxproj
-/Chapter 5/Modulus and Exponention/Debug/vc142.pdb
-/Chapter 5/Modulus and Exponention/Debug/vc142.idb
-/Chapter 5/Modulus and Exponention/Debug/Modulus and Exponention.vcxproj.FileListAbsolute.txt
-/Chapter 5/Modulus and Exponention/Debug/Modulus and Exponention.pdb
-/Chapter 5/Modulus and Exponention/Debug/Modulus and Exponention.log
-/Chapter 5/Modulus and Exponention/Debug/Modulus and Exponention.ilk
-/Chapter 5/Modulus and Exponention/Debug/Modulus and Exponention.exe.recipe
-/Chapter 5/Modulus and Exponention/Debug/Modulus and Exponention.exe
-/Chapter 5/Modulus and Exponention/Debug/Modulus .296e5423.tlog/Modulus and Exponention.lastbuildstate
-/Chapter 5/Modulus and Exponention/Debug/Modulus .296e5423.tlog/link.write.1.tlog
-/Chapter 5/Modulus and Exponention/Debug/Modulus .296e5423.tlog/link.read.1.tlog
-/Chapter 5/Modulus and Exponention/Debug/Modulus .296e5423.tlog/link.command.1.tlog
-/Chapter 5/Modulus and Exponention/Debug/Modulus .296e5423.tlog/CL.write.1.tlog
-/Chapter 5/Modulus and Exponention/Debug/Modulus .296e5423.tlog/CL.read.1.tlog
-/Chapter 5/Modulus and Exponention/Debug/Modulus .296e5423.tlog/CL.command.1.tlog
-/Chapter 5/Modulus and Exponention/Debug/main.obj
-/Chapter 5/Modulus and Exponention/.vs/Modulus and Exponention/v16/ipch/AutoPCH/b889a94f2bf31d90/MAIN.ipch
-/Chapter 5/Modulus and Exponention/.vs/Modulus and Exponention/v16/ipch/AutoPCH/efe42eda4c850ab/VCTMP13216_869765.MAIN.6B5EC257.ipch
-/Chapter 5/Modulus and Exponention/.vs/Modulus and Exponention/v16/ipch/AutoPCH/24d366a1c54de460/MAIN.ipch
+
+*.suo
 *.db
+*.tlog
+*.log
+*.FileListAbsolute.txt
+*.exe
+*.ipch
+*.obj
 *.db-shm
 *.db-wal
+*.filters
+*.vcxproj
+*.sln
+*.pdb
+*.user
+*.idb
+*.ilk
+*.recipe
 *.opendb
