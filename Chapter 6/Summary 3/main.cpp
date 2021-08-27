@@ -2,13 +2,10 @@
 
 bool passOrFail()
 {
-	static int attempts{ 0 };
-	attempts++;
+	static int s_attempts{ 0 };
+	s_attempts++;
 
-	if (attempts <= 3)
-		return true;
-	else
-		return false;
+	return (s_attempts <= 3);
 }
 
 
