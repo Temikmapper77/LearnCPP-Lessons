@@ -2,10 +2,10 @@
 
 int main()
 {
-	int num{ 5 };
+	int num{ 9 };
 	int rows{ 1 };
 	int cols{ 1 };
-	while (rows <= 5)
+	while (rows <= num)
 	{
 		int spaces{ num - rows };
 		cols = rows;
